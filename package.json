@@ -33,6 +33,7 @@
 	"dependencies": {
 		"@fontsource-variable/jetbrains-mono": "^5.0.19",
 		"@fontsource-variable/rubik": "^5.0.20",
-		"@fontsource/anton": "^5.0.18"
+		"@fontsource/anton": "^5.0.18",
+		"lucide-svelte": "^0.303.0"
 	}
 }
